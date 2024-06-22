@@ -1,0 +1,20 @@
+{
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "module": "ES2022",
+    "target": "ES2022",
+    "moduleResolution": "Node",
+    "strict": true,
+    "composite": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitOverride": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "baseUrl": "./",
+    "paths": {
+      "#libs/common": ["libs/common/src/index.ts"]
+    }
+  }
+}

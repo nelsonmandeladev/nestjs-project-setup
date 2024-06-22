@@ -7,5 +7,20 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.addMissingImports": "explicit"
-  }
+  },
+  "cSpell.words": ["nestjs"],
+  "vsicons.associations.files": [
+    {
+      "icon": "nx",
+      "extentions": ["project.json"],
+      "filename": true,
+      "format": "svg"
+    },
+    {
+      "icon": "vscode",
+      "extentions": ["settings.json", "extensions.json"],
+      "filename": true,
+      "format": "svg"
+    }
+  ]
 }
