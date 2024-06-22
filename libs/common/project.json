@@ -6,6 +6,12 @@
         "libs/common"
     ],
     "targets": {
+        "lint": {
+            "executor": "nx:run-commands",
+            "options": {
+                "command": "eslint ./libs/common"
+            }
+        },
         "build": {
             "executor": "nx:run-commands",
             "options": {

@@ -3,6 +3,7 @@
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
     "streetsidesoftware.code-spell-checker",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "dbaeumer.vscode-eslint"
   ]
 }
