@@ -27,7 +27,7 @@
         "start": {
             "executor": "nx:run-commands",
             "options": {
-                "command": "node ./dist/apps/backend/amin.js"
+                "command": "node ./dist/apps/backend/main.js"
             },
             "dependsOn": [
                 "build"

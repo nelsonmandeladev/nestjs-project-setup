@@ -13,7 +13,7 @@
     {
       "icon": "nx",
       "extentions": ["project.json"],
-      "filename": true,
+      "fileName": true,
       "format": "svg"
     },
     {

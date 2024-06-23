@@ -4,6 +4,8 @@
     "esbenp.prettier-vscode",
     "streetsidesoftware.code-spell-checker",
     "nrwl.angular-console",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "vscode-icons-team.vscode-icons",
+    "humao.rest-client"
   ]
 }
