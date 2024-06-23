@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@nestjs/schematics": "^10.0.1",
+    "@nestjs/testing": "^10.3.9",
     "@nx/nest": "^19.3.1",
     "@nx/workspace": "^19.3.1",
     "@types/supertest": "^6.0.2",
