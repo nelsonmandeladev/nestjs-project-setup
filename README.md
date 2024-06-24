@@ -8,6 +8,9 @@ This is the an application to manage the content of website
     # Install dependencies
     $ npm install
 
+    # Start application with fast reload
+    npx nx serve apps/backend
+
     # Start application
-    nx serve apps/backend
+    npx nx start apps/backend
 ```
