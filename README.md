@@ -1,8 +1,8 @@
-# CMS API
+# NestJs Project Starter
 
 ## Description
 
-This is the an application to manage the content of website
+This is the base Nest Js project start with common configs
 
 ```bash
     # Install dependencies
