@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Debug backend",
-      "command": "npx nx serve apps/backend",
+      "command": "nx serve apps/backend",
       "request": "launch",
       "type": "node-terminal",
       "sourceMaps": true

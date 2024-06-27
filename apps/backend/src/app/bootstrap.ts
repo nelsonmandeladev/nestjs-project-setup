@@ -16,9 +16,8 @@ export const bootstrap = async () => {
     app.enableCors({ origin: options.corsOrigin });
     app.enableShutdownHooks();
 
-
     // Swagger setup
-    const config = new DocumentBuilder().setTitle("NestJS Base project setup").build();
+    const config = new DocumentBuilder().setTitle("Authentication with Nest Application").build();
     const document = SwaggerModule.createDocument(app, config);
     SwaggerModule.setup(options.basePath, app, document);
 

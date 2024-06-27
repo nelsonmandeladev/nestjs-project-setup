@@ -3,3 +3,5 @@ dist
 .nx/cache
 .nx/workspace-data
 coverage
+.env
+.env.local
