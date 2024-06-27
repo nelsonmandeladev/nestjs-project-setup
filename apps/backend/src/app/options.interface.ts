@@ -1,7 +1,7 @@
 export interface BackendModuleOptions {
     port: number;
     basePath: string;
-    corsOrigin: string
+    corsOrigin: string;
 }
 
 
